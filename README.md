@@ -14,11 +14,7 @@ Projects that are centered around cybersecurity, network security, and ethical h
 📺 Side Hustle:
 When I'm not buried in textbooks or hacking away at a keyboard, I'm creating content for my YouTube channel and other social media platforms under the alias "pen-security". I love to share my knowledge and learn from the community.
 
-📬 How to reach me:
-Feel free to drop me a message on GitHub or connect with me through my social media channels linked on my profile.
-
-🔎 Fun fact:
-I find the realm of cybersecurity astonishingly massive and endlessly fascinating. Did you know that the first computer virus was created in 1971? It's called the Creeper virus, and it was an experimental self-replicating program. It's been a long journey since then!
-
 ➡️ Ask me about:
 Anything related to cybersecurity, ethical hacking, Python, bash scripting, or networking. I'm here to learn and share what I know.
+
+Thanks for visiting...
