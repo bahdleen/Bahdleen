@@ -1,4 +1,4 @@
-👋 Hi there! I'm Anthony Edjenuwa, a Cyber Security enthusiast currently navigating the vast seas of security knowledge as a BS Cyber Security student at Teesside University.
+👋 Hi there! I'm Anthony Edjenuwa, a Cyber Security enthusiast currently navigating the vast seas of security knowledge as a BSc Cyber Security student at Teesside University.
 
 🔍 Learning the intricacies of Ethical Hacking. I'm delving deep into the world of cybersecurity, exploring how to protect and penetrate systems ethically. It's a journey of continuous learning, where every day offers a new challenge to tackle.
 
