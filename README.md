@@ -1,20 +1,70 @@
-👋 Hi there! I'm Anthony Edjenuwa, a Cyber Security enthusiast currently navigating the vast seas of security knowledge as a BSc Cyber Security student at Teesside University.
+👋 Hi, I'm Anthony Edjenuwa
 
-🔍 Learning the intricacies of Ethical Hacking. I'm delving deep into the world of cybersecurity, exploring how to protect and penetrate systems ethically. It's a journey of continuous learning, where every day offers a new challenge to tackle.
+Cybersecurity & Network Engineering Professional
+🔒 Secure Infrastructure • 🌐 VXLAN/EVPN • 🤖 AI-Driven Security • ⚙️ Automation
 
-🐍 Programming Languages:
-I mainly code in Python, but I'm also skilled in bash scripting and have a strong foundation in networking. Python is my tool of choice for writing scripts that simplify complex tasks.
+🏷️ Badges & Stickers
+<p align="left"> <img src="https://img.shields.io/badge/Cybersecurity-Professional-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Network_Engineering-VXLAN%2FEVPN-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI_for_Security-LLM_Engineering-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Blockchain-Smart_Contracts-red?style=for-the-badge" /> </p>
+💼 Professional Summary
 
-🛠️ What I'm learning:
-My current focus is on expanding my Ethical Hacking skills. I'm always on the lookout for new methods, tools, and techniques that can help me become a better security professional.
+I design and secure modern enterprise infrastructures, specialising in:
 
-🤝 I'm looking to collaborate on:
-Projects that are centered around cybersecurity, network security, and ethical hacking. If you're working on tools or studies that aim to improve security measures, I'm interested in contributing.
+🌐 VXLAN/EVPN data-center fabrics
 
-📺 Side Hustle:
-When I'm not buried in textbooks or hacking away at a keyboard, I'm creating content for my YouTube channel and other social media platforms under the alias "pen-security". I love to share my knowledge and learn from the community.
+🔐 Cybersecurity engineering & threat detection
 
-➡️ Ask me about:
-Anything related to cybersecurity, ethical hacking, Python, bash scripting, or networking. I'm here to learn and share what I know.
+🤖 AI-assisted security workflows (DeepSeek/LLaMA on GPU systems)
 
-Thanks for visiting...
+⚙️ Python-driven automation & orchestration
+
+🔗 Blockchain-backed immutable logging
+
+I build realistic, high-fidelity environments using EVE-NG, GNS3, and multi-vendor systems to mirror real-world enterprise networks.
+
+🧩 Core Competencies
+
+🔒 Defensive Security, Threat Detection, Ethical Testing
+
+🌐 Enterprise Networking: VXLAN/EVPN, Segmentation, Routing, Firewalls
+
+🤖 AI for Security: Local LLMs, automated log/alert enrichment
+
+⚙️ Python & Bash Automation
+
+🔗 Blockchain Security: Smart contracts, secure record verification
+
+🛠️ Technologies
+
+Networking: Cisco • Cumulus • FRR • FortiGate • pfSense
+Security: Wazuh • Suricata • Security Onion • SIEM Pipelines
+AI: LLaMA • DeepSeek • FastAPI • GPU Inference
+Programming: Python • Bash
+Environments: EVE-NG • GNS3 • Packet Tracer • Linux
+Blockchain: Solidity • Base Mainnet • Hash APIs
+
+🤝 Collaboration
+
+Open to collaboration on:
+
+🔐 Advanced cybersecurity tools
+
+⚙️ Network automation systems
+
+🤖 AI-driven incident analysis
+
+🌐 Enterprise infrastructure simulations
+
+If you're building something serious—security, networking, automation, or AI—I’m open to discussing it.
+
+🎥 Content Creation (PenSecurity_ORG)
+
+I produce professional cybersecurity, networking, and AI tutorials under PenSecurity_ORG, focusing on enterprise-grade labs, real-world designs, and research-driven material.
+My content is aimed at helping professionals and teams build stronger security and infrastructure capabilities.
+
+💬 Ask Me About
+
+🔒 Cybersecurity • 🌐 Networking • ⚙️ Python Automation
+🤖 AI for Security • 🌐 VXLAN/EVPN • 🔗 Blockchain Logging
+
+📊 GitHub Analytics
+<p align="left"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=anthonyedjenuwa&show_icons=true&theme=transparent" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyedjenuwa&layout=compact&theme=transparent" /> </p>
